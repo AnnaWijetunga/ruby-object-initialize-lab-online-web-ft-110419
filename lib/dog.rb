@@ -11,8 +11,7 @@ class Dog
   def breed
     @breed
   end
-  
-
+fido.breed = "mutt"
 end
 
 
