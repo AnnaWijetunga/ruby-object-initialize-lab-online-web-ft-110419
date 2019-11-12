@@ -11,6 +11,10 @@ class Dog
   def breed
     @breed
   end
+  
+  def breed
+    puts "Mutt"
+  end 
 # dog.breed = "Mutt"
 
 end
