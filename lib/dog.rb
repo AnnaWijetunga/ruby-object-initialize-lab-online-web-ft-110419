@@ -6,4 +6,3 @@ class Dog
 end
 
 breed = Dog.new("Mutt")
-mutt.breed 
